@@ -1,9 +1,5 @@
 # Stick Hero
 
-## Contributors:
-* Tushar Goel (2021431)
-* Dev Pratap Singh (2021383)
-
 ## Features
 * Implements all the functionality of Stick Hero Game
 * Gives an option to revive with 3 cherry
